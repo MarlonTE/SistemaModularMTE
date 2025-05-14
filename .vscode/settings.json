@@ -1,0 +1,11 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "cSpell.words": [
+        "audiostreaming",
+        "jdbc",
+        "ojdbc",
+        "projectlombok",
+        "sistemamodular",
+        "springframework"
+    ]
+}
